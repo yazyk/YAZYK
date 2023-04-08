@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A frontend developer from Russia</h3>
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/abfme) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:igskurihin@gmail.com)
 
 - 📝 I regularly write articles on [https://t.me/productmean](https://t.me/productmean)
 
