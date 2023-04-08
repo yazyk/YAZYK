@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">A frontend developer from Russia</h3>
+<h3 align="center">A frontend developer from Kirov, Russia.</h3>
 
-- 📝 I regularly write articles on [https://t.me/productmean](https://t.me/productmean)
+- 📝 I write articles: [https://t.me/productmean](https://t.me/productmean)
 
-- 📫 How to reach me **igskurihin@gmail.com**
+- 📫 Email: **igskurihin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
